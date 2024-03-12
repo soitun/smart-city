@@ -42,3 +42,9 @@ Typora：一款轻便简洁的Markdown编辑器
 本站文章引用或转载写明来源，感谢原作者的辛苦写作，如果有异议或侵权，及时联系我处理，谢谢！
 
 
+
+
+<img width="389" alt="zctechX" src="https://github.com/enryteam/smart-city/assets/20081090/75e01c08-8b32-40d4-8381-52b8023444fd">
+![zctechAI](https://github.com/enryteam/smart-city/assets/20081090/e8d02176-62d8-491d-b532-b588c641f9b9)
+
+
