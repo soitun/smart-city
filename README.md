@@ -45,6 +45,11 @@ Typora：一款轻便简洁的Markdown编辑器
 
 
 <img width="389" alt="zctechX" src="https://github.com/enryteam/smart-city/assets/20081090/75e01c08-8b32-40d4-8381-52b8023444fd">
-![zctechAI](https://github.com/enryteam/smart-city/assets/20081090/e8d02176-62d8-491d-b532-b588c641f9b9)
+
+我们从“大产业”中“小场景”出发着眼于“解决用户痛点”期望通过产品项目化实施，降本增效达到20%以上，并缩短开发周期70%。在这个价值观驱动下，深度整合我们已有的“数据采集+数字孪生+AI大模型”软硬件系列产品线来重新定义“孪生体”并开发出一款名为“zctechX”的数字化中心平台产品。zctechX同时支持B/S和C/S架构，旨在通过数据采集、数字孪生和AI大模型等技术帮助用户实现智能运营、设备健康管理、能效优化以及质量预测等目标。
+
+
+<img width="389" alt="zctechX" src="https://github.com/enryteam/smart-city/assets/20081090/cb939b08-7084-4f67-a0ac-dd96c27e0080">
+
 
 
